@@ -3,6 +3,7 @@ import Link from "next/link";
 const concept = [
      {name: "What is ExpressJs?", path:"/concepts/What-is-ExpressJS"},
      {name: "Why use express over Nodejs?", path:"/concepts/WhyExpressOverNode"},
+     {name: "What is Middleware?", path:"/concepts/WhatIsMiddleware"},
 ];
 
 export default function Concepts(){
