@@ -5,6 +5,7 @@ const concept = [
      {name: "Why use express over Nodejs?", path:"/concepts/WhyExpressOverNode"},
      {name: "What is Middleware?", path:"/concepts/WhatIsMiddleware"},
      {name: "Request-Response Lifecycle in Express.js?", path:"/concepts/RequestResponseLifecycle"},
+     {name: "What is the role of next() function??", path:"/concepts/NextFunctionRole"},
 ];
 
 export default function Concepts(){
