@@ -10,6 +10,7 @@ const concept = [
      {name: "Difference between app.get, app.post, app.put, app.delete.?", path:"/concepts/HTTPMethodsDifference"},
      {name: "What are route parameters??", path:"/concepts/RouteParameters"},
      {name: "Difference between req.params and req.query.?", path:"/concepts/ParamsVsQuery"},
+     {name: "How to Handle Dynamic Routes in Express.js?", path:"/concepts/DynamicRoutes"},
 ];
 
 export default function Concepts(){
