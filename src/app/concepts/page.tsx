@@ -8,6 +8,7 @@ const concept = [
      {name: "What is the role of next() function??", path:"/concepts/NextFunctionRole"},
      {name: "How routing works in Express?", path:"/concepts/ExpressRouting"},
      {name: "Difference between app.get, app.post, app.put, app.delete.?", path:"/concepts/HTTPMethodsDifference"},
+     {name: "What are route parameters??", path:"/concepts/RouteParameters"},
 ];
 
 export default function Concepts(){
