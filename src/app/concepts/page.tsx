@@ -12,6 +12,7 @@ const concept = [
      {name: "Difference between req.params and req.query.?", path:"/concepts/ParamsVsQuery"},
      {name: "How to Handle Dynamic Routes in Express.js?", path:"/concepts/DynamicRoutes"},
      {name: "What is req object in Express??", path:"/concepts/ReqObject"},
+     {name: "What is res object in Express??", path:"/concepts/ResObject"},
 ];
 
 export default function Concepts(){
