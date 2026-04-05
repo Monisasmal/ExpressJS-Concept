@@ -4,7 +4,7 @@ import Header from "@/Components/Header";
 import Footer from "@/Components/Footer";
 
 export const metadata: Metadata = {
-  title: "Nodejs Guide",
+  title: "ExpressJS Guide",
   description: "Learn Nodejs step by step with clear concepts",
 };
 
