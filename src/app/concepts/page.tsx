@@ -13,6 +13,7 @@ const concept = [
      {name: "How to Handle Dynamic Routes in Express.js?", path:"/concepts/DynamicRoutes"},
      {name: "What is req object in Express??", path:"/concepts/ReqObject"},
      {name: "What is res object in Express??", path:"/concepts/ResObject"},
+     {name: "Difference between res.send and res.json?", path:"/concepts/SendVsJson"},
 ];
 
 export default function Concepts(){
