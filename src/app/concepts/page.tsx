@@ -16,6 +16,7 @@ const concept = [
      {name: "Difference between res.send and res.json?", path:"/concepts/SendVsJson"},
      {name: "How to Send Status Codes in Express.js?", path:"/concepts/StatusCodes"},
      {name: "Types of middleware in Express?", path:"/concepts/TypesOfMiddleware"},
+     {name: "What is Application-level middleware.", path:"/concepts/ApplicationLevelMiddleware"},
 ];
 
 export default function Concepts(){
