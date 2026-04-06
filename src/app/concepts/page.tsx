@@ -18,6 +18,7 @@ const concept = [
      {name: "Types of middleware in Express?", path:"/concepts/TypesOfMiddleware"},
      {name: "What is Application-level middleware.", path:"/concepts/ApplicationLevelMiddleware"},
      {name: "What is Router level middleware.", path:"/concepts/RouterLevelMiddleware"},
+     {name: "What is Error Handling Middleware?.", path:"/concepts/ErrorHandlingMiddleware"},
 ];
 
 export default function Concepts(){
