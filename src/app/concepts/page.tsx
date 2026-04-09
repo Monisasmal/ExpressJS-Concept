@@ -20,6 +20,7 @@ const concept = [
      {name: "What is Router level middleware.", path:"/concepts/RouterLevelMiddleware"},
      {name: "What is Error Handling Middleware?.", path:"/concepts/ErrorHandlingMiddleware"},
      {name: "What Happens if next() is Not Called in Express.js?", path:"/concepts/NextNotCalled"},
+     {name: "How to Handle Errors in Express.js", path:"/concepts/HandleErrors"},
 ];
 
 export default function Concepts(){
