@@ -22,6 +22,7 @@ const concept = [
      {name: "What Happens if next() is Not Called in Express.js?", path:"/concepts/NextNotCalled"},
      {name: "How to Handle Errors in Express.js", path:"/concepts/HandleErrors"},
      {name: "Global Error Handling Middleware in Express.js?", path:"/concepts/GlobalErrorHandling"},
+     {name: "Custom Error Middleware in Express.js?", path:"/concepts/CustomErrorMiddleware"},
 ];
 
 export default function Concepts(){
