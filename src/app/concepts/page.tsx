@@ -23,6 +23,7 @@ const concept = [
      {name: "How to Handle Errors in Express.js", path:"/concepts/HandleErrors"},
      {name: "Global Error Handling Middleware in Express.js?", path:"/concepts/GlobalErrorHandling"},
      {name: "Custom Error Middleware in Express.js?", path:"/concepts/CustomErrorMiddleware"},
+     {name: "What is JWT Authentication?", path:"/concepts/JWTAuthentication"},
 ];
 
 export default function Concepts(){
