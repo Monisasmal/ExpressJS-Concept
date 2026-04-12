@@ -25,6 +25,7 @@ const concept = [
      {name: "Custom Error Middleware in Express.js?", path:"/concepts/CustomErrorMiddleware"},
      {name: "What is JWT Authentication?", path:"/concepts/JWTAuthentication"},
      {name: "How to Protect Routes in Express.js?", path:"/concepts/ProtectRoutes"},
+     {name: "What is CORS (Cross-Origin Resource Sharing)?", path:"/concepts/WhatIsCORS"},
 ];
 
 export default function Concepts(){
