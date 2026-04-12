@@ -27,6 +27,7 @@ const concept = [
      {name: "How to Protect Routes in Express.js?", path:"/concepts/ProtectRoutes"},
      {name: "What is CORS (Cross-Origin Resource Sharing)?", path:"/concepts/WhatIsCORS"},
      {name: "What is Helmet in Express.js?", path:"/concepts/WhatIsHelmet"},
+     {name: "How to Prevent Common Security Issues in Express.js?", path:"/concepts/PreventSecurityIssues"},
 ];
 
 export default function Concepts(){
