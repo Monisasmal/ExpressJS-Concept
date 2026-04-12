@@ -26,6 +26,7 @@ const concept = [
      {name: "What is JWT Authentication?", path:"/concepts/JWTAuthentication"},
      {name: "How to Protect Routes in Express.js?", path:"/concepts/ProtectRoutes"},
      {name: "What is CORS (Cross-Origin Resource Sharing)?", path:"/concepts/WhatIsCORS"},
+     {name: "What is Helmet in Express.js?", path:"/concepts/WhatIsHelmet"},
 ];
 
 export default function Concepts(){
