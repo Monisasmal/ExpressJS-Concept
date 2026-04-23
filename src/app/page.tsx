@@ -11,8 +11,8 @@ export default function Home() {
 
       {/* Hero */}
       <section className="text-center space-y-4">
-        <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold text-blue-600">
-          Learn ExpressJS the Right Way
+        <h1 className="text-2xl sm:text-3xl md:text-5xl font-bold text-blue-900">
+           Learn <span className="text-green-700">ExpressJS</span> the Right Way
         </h1>
 
         <p className="text-sm sm:text-base text-gray-600 max-w-2xl mx-auto">
