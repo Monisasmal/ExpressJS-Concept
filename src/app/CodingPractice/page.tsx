@@ -3,6 +3,7 @@ import Link from "next/link";
 const CodingQue = [
      {name: "Create a Basic Express Server?", path:"/CodingPractice/CreateExpressServer"},
      {name: "Create CRUD API for users?", path:"/CodingPractice/CreateCRUDUserAPI"},
+     {name: "Implement Logger Middleware in Express.js?", path:"/CodingPractice/LoggerMiddleware"},
 ];
 
 export default function InterviewCoding(){
