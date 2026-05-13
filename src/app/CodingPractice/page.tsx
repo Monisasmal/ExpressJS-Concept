@@ -4,6 +4,7 @@ const CodingQue = [
      {name: "Create a Basic Express Server?", path:"/CodingPractice/CreateExpressServer"},
      {name: "Create CRUD API for users?", path:"/CodingPractice/CreateCRUDUserAPI"},
      {name: "Implement Logger Middleware in Express.js?", path:"/CodingPractice/LoggerMiddleware"},
+     {name: "Validate Request Body Using Middleware?", path:"/CodingPractice/ValidateRequestBody"},
 ];
 
 export default function InterviewCoding(){
